@@ -1,1 +1,26 @@
+🤖 Sumo Robot Project - 3kg Category
+This repository documents the development, logic, and hardware design of our 3kg Mega Sumo Robot, developed as part of our robotics engineering projects.
 
+🏆 Project Achievements
+Our team successfully secured 9th place in the MRC Magnetic Mega Sumo 3kg competition, which qualified us for the Global Finals in Greece.
+
+📂 Repository Structure
+/body: Contains the hardware design and chassis construction details.
+
+/final_sumo_logic: Contains the core programming and logic for the robot's autonomous behavior.
+
+FINAL_Waslleh_Sumo_3kg_List: Procurement and parts list for the robot.
+
+Schedule: Project timeline and competition preparation phases.
+
+التأهل لليونان: Official qualification documentation.
+
+🛠 Tech Stack
+Hardware: Arduino/Microcontrollers, Infrared Sensor Arrays (QTR-8A), Mechanical Switches.
+
+Design & Fabrication: Advanced hardware design, 3D printing (Bambu Studio).
+
+Programming: C++/Arduino Logic.
+
+👥 The Team
+This project is a collaborative effort by our robotics team: Raghad Alshrawneh, Renad, Shaza.
